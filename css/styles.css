@@ -18,7 +18,14 @@ ul {
 img{
 display: block;
 }
-
+.container {
+    width: 1440px;
+    height: 3300px;
+    top: -1169px;
+    left: 370px;
+    gap: 0px;
+    opacity: 0px;
+}
 body {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
