@@ -66,11 +66,10 @@ body {
 }
 .menu-cl{
     display: flex;
+    align-items: center;
     gap: 40px;
 }
-.list-item:not(:last-child){
-margin-right: 40px;
-}
+
 .header-list-items {
     font-weight: 500;
     font-size: 16px;
