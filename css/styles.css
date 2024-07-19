@@ -87,18 +87,19 @@ body {
 
 .header-address {
     font-style: normal;
-    display: flex;
     margin-left: auto;
 }
 .header-address-list{
     gap: 40px;
+    display: flex;
+    align-items: center;
 }
 .info {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     display: flex;
-    padding: 24px 0;
+    padding: 24px 0 24px;
 }
 
 .info:hover,
