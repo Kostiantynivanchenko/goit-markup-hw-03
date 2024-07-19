@@ -49,6 +49,9 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+.header-logo{
+    padding: 24px;
     margin-right: 76px;
 }
 
