@@ -59,6 +59,10 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+.menu-cl{
+    display: flex;
+    gap: 40px;
+}
 
 .header-list-items {
     font-weight: 500;
