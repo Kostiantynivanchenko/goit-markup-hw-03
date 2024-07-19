@@ -81,12 +81,12 @@ margin-right: 40px;
 
 }
 
-.header-address {
+.header-address-list {
     font-style: normal;
     display: flex;
     gap: 40px;
 }
-.header-address:not(:last-child) {
+.header-address-list:not(:last-child) {
     margin-right: 40px;
 }
 
