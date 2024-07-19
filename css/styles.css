@@ -214,7 +214,8 @@ h2 {
 }
 
 .footer-class {
-    background-color: #2E2F42
+    background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .logo-footer {
@@ -225,6 +226,8 @@ h2 {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .logo-web-studio-footer {
@@ -241,4 +244,5 @@ h2 {
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
