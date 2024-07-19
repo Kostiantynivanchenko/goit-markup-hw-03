@@ -85,19 +85,20 @@ body {
 
 }
 
-.header-address-list {
+.header-address {
     font-style: normal;
     display: flex;
+    margin-left: auto;
+}
+.header-address-list{
     gap: 40px;
 }
-.header-address-list:not(:last-child) {
-    margin-right: 40px;
-}
-
 .info {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    display: flex;
+    padding: 24px 0;
 }
 
 .info:hover,
